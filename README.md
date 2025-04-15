@@ -25,6 +25,8 @@ Below is the process we can follow for the task of Metro Network Analysis of Del
 
 📁 Dataset
 
+Let's get started with the task of Delhi Metro Network Analysis by importing the dataset:
+
 **Filename:** `Delhi-Metro-Network.csv`
 
 **Features:**
@@ -33,4 +35,17 @@ Below is the process we can follow for the task of Metro Network Analysis of Del
 - `Latitude` & `Longitude`: Geolocation coordinates  
 - `Opening Date`: Date the station was opened  
 - `Distance from Start (km)`: Distance from the line’s starting point  
-- `Station Layout`: Type of structural layout (Elevated, Underground, etc.) 
+- `Station Layout`: Type of structural layout (Elevated, Underground, etc.)
+
+<img width="770" alt="Screenshot 2025-04-15 at 12 38 03 AM" src="https://github.com/user-attachments/assets/3091d7d4-fe6e-453b-b1c1-c911bee3cb88" />
+
+Now, let's have a look at whether the dataset has any null values or not and then look at the data types:
+
+<img width="416" alt="Screenshot 2025-04-15 at 12 39 30 AM" src="https://github.com/user-attachments/assets/d4510a2e-f1b9-464f-8079-7f5162fcca45" />
+
+**DataTypes**
+
+<img width="416" alt="Screenshot 2025-04-15 at 12 39 42 AM" src="https://github.com/user-attachments/assets/bbebd63e-f11a-48fc-a814-6eb18564beef" />
+
+We had converted the Opening Date column to datetime format for ease of analysis 
+
