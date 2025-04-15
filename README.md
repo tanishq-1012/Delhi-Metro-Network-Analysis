@@ -21,3 +21,16 @@ Below is the process we can follow for the task of Metro Network Analysis of Del
 4. Create visual representations of the network, such as route maps, passenger flow charts, or heat maps of station congestion.
 5. Analyze how effectively the network handles passenger traffic and meet operational targets.
 
+## Dataset
+
+📁 Dataset
+
+**Filename:** `Delhi-Metro-Network.csv`
+
+**Features:**
+- `Station Name`: Name of the metro station  
+- `Line`: Metro line the station belongs to  
+- `Latitude` & `Longitude`: Geolocation coordinates  
+- `Opening Date`: Date the station was opened  
+- `Distance from Start (km)`: Distance from the line’s starting point  
+- `Station Layout`: Type of structural layout (Elevated, Underground, etc.) 
