@@ -47,5 +47,20 @@ Now, let's have a look at whether the dataset has any null values or not and the
 
 <img width="416" alt="Screenshot 2025-04-15 at 12 39 42 AM" src="https://github.com/user-attachments/assets/bbebd63e-f11a-48fc-a814-6eb18564beef" />
 
-We had converted the Opening Date column to datetime format for ease of analysis 
+We had converted the Opening Date column to datetime format for ease of analysis.
+
+## 🌍Geospatial Analysis
+
+### 📍 1. Interactive Metro Map
+
+A city-wide interactive map using **Folium** showing:
+- All metro stations
+- Colored markers per line
+- Tooltip with station and line name
+
+Now, let's start by visualizing the locations of the metro stations on the map. It will give us an insights into geographical distribution of the stations across Delhi. We will use the latitude and longitude data to plot each station.
+For this, i'll create a map with markers for each metro station. Each marker will represent a station, and we'll be able to analyze aspects like station density and geographic spread.
+Let's proceed with this visualization:
+
+<img width="1140" alt="Screenshot 2025-04-15 at 12 40 23 AM" src="https://github.com/user-attachments/assets/ef79c40d-8d01-485a-a18c-4dc7072196ea" />
 
