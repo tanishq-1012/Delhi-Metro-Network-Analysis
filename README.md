@@ -152,3 +152,10 @@ The bar chart and the counts show the distribution of different station layouts 
 ## Summary
 
 So, this is how we can perform Delhi Metro Network Analysis using python. Metro Network Analysis involves examining the network of metro systems to understand their structure, efficiency, and effectiveness. It typically includes analyzing routes, stations, traffic, connectivity, and other operational aspects.
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+2. Make sure Python and the required libraries are installed:
+   ```bash
+   pip install pandas folium plotly
