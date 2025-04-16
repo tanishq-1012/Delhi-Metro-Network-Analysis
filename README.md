@@ -86,3 +86,19 @@ The bar chart illustrates the number of Delhi Metro Stations opened each year. T
 
 1. Some years show a significant number of new station openings, indicating phases of rapid network expansion.
 2. Conversely, there are years with few or new stations, which could be due to various factors like planning, funding, or construction challenges.
+
+## Line Analysis
+
+### 🚆 3. Metro Line Analysis
+
+Dual-bar horizontal subplot analyzing each metro line:
+- **Number of stations** per line  
+- **Average distance between stations** (calculated by dividing total distance by number of segments)
+
+This helps understand the density of lines and planning structure.
+
+Now, I'll analyze the various metro lines in terms of the number of stations they have and the average distance between stations. It will give us insights into the characterstics of each metro line, such as which line are more extensiveor denser.
+I'll calculate the number of stations per line and the average distance between stations on each line. I'll then visualize these metrics to better understand the differences between the lines.
+Lets start with these calculations:
+
+<img width="406" alt="Screenshot 2025-04-15 at 12 41 06 AM" src="https://github.com/user-attachments/assets/cd2ee224-4041-4f1e-ab8f-8ab7ee288143" />
