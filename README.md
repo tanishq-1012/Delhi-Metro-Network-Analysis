@@ -54,6 +54,7 @@ We had converted the Opening Date column to datetime format for ease of analysis
 ### 📍 1. Interactive Metro Map
 
 A city-wide interactive map using **Folium** showing:
+
 - All metro stations
 - Colored markers per line
 - Tooltip with station and line name
@@ -66,3 +67,22 @@ Let's proceed with this visualization:
 
 Here is the map showing the geographical distribution of Delhi Metro stations. Each marker represents a metro station, and you can hover or click on the markers to see the station name and the metro line it belongs to. This map provides a visual understanding of how the metro stations are spread across in Delhi.
 
+## Temporal Analysis
+
+### 📈 2. Year-wise Station Expansion
+
+Bar chart (using Plotly Express) showing how many stations were added each year:
+
+- Helps visualize rapid expansion years.
+- Highlights infrastructure growth phases.
+
+Now, I will analyze the growth of the Delhi Metro network over time. I'll look at how many stations were opened each year and visualize this growth. It can provide insights into the pace of metro network expansion and its development phases.
+I'll start by extracting the year from the Opening Date and then count the number of stations opened each year. Following this I'll visualize this information in bar plot. 
+Let's proceed with this analysis:
+
+<img width="1107" alt="Screenshot 2025-04-15 at 12 40 44 AM" src="https://github.com/user-attachments/assets/cbf70450-56fd-4dd0-92b8-ac3f60b6a17c" />
+
+The bar chart illustrates the number of Delhi Metro Stations opened each year. This visuakization helps us understand the temporal development of the metro network. Some key observations include:
+
+1. Some years show a significant number of new station openings, indicating phases of rapid network expansion.
+2. Conversely, there are years with few or new stations, which could be due to various factors like planning, funding, or construction challenges.
