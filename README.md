@@ -102,3 +102,5 @@ I'll calculate the number of stations per line and the average distance between 
 Lets start with these calculations:
 
 <img width="406" alt="Screenshot 2025-04-15 at 12 41 06 AM" src="https://github.com/user-attachments/assets/cd2ee224-4041-4f1e-ab8f-8ab7ee288143" />
+
+The table presents a detailed analysis of the Delhi Metro lines, including the numbers of stations on each line and the average distance between stations.
