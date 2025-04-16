@@ -117,5 +117,5 @@ Bar chart showing how metro stations are designed:
 - Elevated, Underground, At-Grade, etc.
 - Helps in understanding engineering complexity and urban planning.
 
-
+Next, I'll explore the station layouts (Elevated, Ground Level, Underground). I'll analyze the distribution of these layouts across the network and see if there are any patterns or trends, such as certain lines favouring a particular layout.
 
