@@ -162,7 +162,7 @@ So, this is how we can perform Delhi Metro Network Analysis using python. Metro 
 
 ## 🔮 Future Improvements
 
-Add time-lapse animation of network growth.
-Build station-to-station connectivity graphs.
-Integrate ridership or traffic data for deeper insights.
-Use networkx for graph-based analysis of shortest paths and centrality.
+1. Add time-lapse animation of network growth.
+2. Build station-to-station connectivity graphs.
+3. Integrate ridership or traffic data for deeper insights.
+4. Use networkx for graph-based analysis of shortest paths and centrality.
