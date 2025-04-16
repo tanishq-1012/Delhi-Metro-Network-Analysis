@@ -64,3 +64,5 @@ Let's proceed with this visualization:
 
 <img width="1140" alt="Screenshot 2025-04-15 at 12 40 23 AM" src="https://github.com/user-attachments/assets/ef79c40d-8d01-485a-a18c-4dc7072196ea" />
 
+Here is the map showing the geographical distribution of Delhi Metro stations. Each marker represents a metro station, and you can hover or click on the markers to see the station name and the metro line it belongs to. This map provides a visual understanding of how the metro stations are spread across in Delhi.
+
