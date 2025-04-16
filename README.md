@@ -77,6 +77,7 @@ Bar chart (using Plotly Express) showing how many stations were added each year:
 - Highlights infrastructure growth phases.
 
 Now, I will analyze the growth of the Delhi Metro network over time. I'll look at how many stations were opened each year and visualize this growth. It can provide insights into the pace of metro network expansion and its development phases.
+
 I'll start by extracting the year from the Opening Date and then count the number of stations opened each year. Following this I'll visualize this information in bar plot. 
 Let's proceed with this analysis:
 
@@ -98,6 +99,7 @@ Dual-bar horizontal subplot analyzing each metro line:
 This helps understand the density of lines and planning structure.
 
 Now, I'll analyze the various metro lines in terms of the number of stations they have and the average distance between stations. It will give us insights into the characterstics of each metro line, such as which line are more extensiveor denser.
+
 I'll calculate the number of stations per line and the average distance between stations on each line. I'll then visualize these metrics to better understand the differences between the lines.
 Lets start with these calculations:
 
@@ -118,4 +120,9 @@ Bar chart showing how metro stations are designed:
 - Helps in understanding engineering complexity and urban planning.
 
 Next, I'll explore the station layouts (Elevated, Ground Level, Underground). I'll analyze the distribution of these layouts across the network and see if there are any patterns or trends, such as certain lines favouring a particular layout.
+
+I'll calculate the frequency of each layout type and then visualize these frequencies to get a cleaner picture of the layout distribution.
+Let's proceed with this:
+
+<img width="1112" alt="Screenshot 2025-04-15 at 12 43 56 AM" src="https://github.com/user-attachments/assets/995bfccb-353e-42c0-aa98-aa91053156d4" />
 
