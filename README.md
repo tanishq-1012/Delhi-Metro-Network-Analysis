@@ -159,3 +159,10 @@ So, this is how we can perform Delhi Metro Network Analysis using python. Metro 
 2. Make sure Python and the required libraries are installed:
    ```bash
    pip install pandas folium plotly
+
+## 🔮 Future Improvements
+
+Add time-lapse animation of network growth.
+Build station-to-station connectivity graphs.
+Integrate ridership or traffic data for deeper insights.
+Use networkx for graph-based analysis of shortest paths and centrality.
