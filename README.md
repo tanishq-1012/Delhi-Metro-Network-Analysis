@@ -140,3 +140,11 @@ The bar chart and the counts show the distribution of different station layouts 
 > 📊 *Year-wise Station Openings*  
 > 📉 *Line Analysis: Station Count vs. Avg. Distance*  
 > 🏗️ *Distribution of Station Layouts*
+
+## 🛠️ Technologies & Libraries
+
+- **Python**  
+- **pandas** – Data manipulation  
+- **folium** – Interactive maps  
+- **plotly** – Interactive and responsive visualizations  
+- **datetime** – Date parsing and manipulation 
