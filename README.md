@@ -127,3 +127,16 @@ Let's proceed with this:
 <img width="1112" alt="Screenshot 2025-04-15 at 12 43 56 AM" src="https://github.com/user-attachments/assets/995bfccb-353e-42c0-aa98-aa91053156d4" />
 
 The bar chart and the counts show the distribution of different station layouts in Delhi Metro network.
+
+### Observations:
+
+1. **Elevated Station**: The majority of the stations are Elevated. It is a common design choice in urban areas to save space and reduce land acquisation issues.
+2. **Underground Stations**: The Underground stations are fewer compared to elevated ones. These are likely in densely populated or central areas where above-ground counstruction is less feasible.
+3. **At-Grade Stations**: There are only a few At-Grade (ground level) stations, suggesting they are less common in the network, possibly due to land and traffic considrations.
+
+## 📷 Sample Visualizations
+
+> 🗺️ *Interactive Map of Stations*  
+> 📊 *Year-wise Station Openings*  
+> 📉 *Line Analysis: Station Count vs. Avg. Distance*  
+> 🏗️ *Distribution of Station Layouts*
