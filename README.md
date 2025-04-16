@@ -166,3 +166,7 @@ So, this is how we can perform Delhi Metro Network Analysis using python. Metro 
 2. Build station-to-station connectivity graphs.
 3. Integrate ridership or traffic data for deeper insights.
 4. Use networkx for graph-based analysis of shortest paths and centrality.
+
+## 🙏 Acknowledgements
+
+Special thanks to the open data contributors and Delhi Metro Rail Corporation (DMRC) resources which inspired the dataset creation.
