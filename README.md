@@ -104,3 +104,8 @@ Lets start with these calculations:
 <img width="406" alt="Screenshot 2025-04-15 at 12 41 06 AM" src="https://github.com/user-attachments/assets/cd2ee224-4041-4f1e-ab8f-8ab7ee288143" />
 
 The table presents a detailed analysis of the Delhi Metro lines, including the numbers of stations on each line and the average distance between stations.
+
+To better understand these metrics, let's visualize them. I'll create two plots: one for the numberof stations per line and another for the average distance between stations. It will provide a comparative view of the metro lines:
+
+<img width="1112" alt="Screenshot 2025-04-15 at 12 42 31 AM" src="https://github.com/user-attachments/assets/44bf103b-c664-49fe-8432-e34ff5dbd646" />
+
