@@ -109,3 +109,13 @@ To better understand these metrics, let's visualize them. I'll create two plots:
 
 <img width="1112" alt="Screenshot 2025-04-15 at 12 42 31 AM" src="https://github.com/user-attachments/assets/44bf103b-c664-49fe-8432-e34ff5dbd646" />
 
+## Station Layout Analysis
+
+### 🧱 4. Station Layout Distribution
+
+Bar chart showing how metro stations are designed:
+- Elevated, Underground, At-Grade, etc.
+- Helps in understanding engineering complexity and urban planning.
+
+
+
