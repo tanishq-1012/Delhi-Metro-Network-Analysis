@@ -9,7 +9,7 @@ The Delhi Metro is a vast rapid transit system serving the National Capital Regi
 - **Mapping metro stations line-wise** using Folium.
 - **Analyzing temporal trends** in station openings.
 - **Measuring average distances between stations** by line.
-- **Exploring structural layouts** of metro stations.
+- **Exploring structural layouts** of metro station.
 
 Metro Network Analysis involves examinings the network of metro systems to understand their structure, efficiency, and effectiveness. It typically includes analyzing routes, stations, traffic, connectivity, and other operational aspects.
 Analyzing the metro network in a city like Delhi helps improve urban transportation infrastructure, leading to better city planning and enhanced commuters experiences. Below commuter experiences.
